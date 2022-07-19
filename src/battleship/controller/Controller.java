@@ -5,7 +5,7 @@
  * data or state are observed by the controller. Uses observer pattern. Uses
  * dependency injection design pattern to pass model off to the view for data
  * binding.
- * Daniel Alp
+ * Owen Wang
  * ICS4U1
  * 2022-06-08
  */

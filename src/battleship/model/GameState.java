@@ -2,7 +2,7 @@
  * GameState.java
  * Enum for the current states of the game. Used by classes in the view package
  * to decide how to render the user and computer boards.
- * Daniel Alp
+ * Owen Wang
  * ICS4U1
  * 2022-06-10
  */

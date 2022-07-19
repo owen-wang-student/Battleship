@@ -4,7 +4,7 @@
  * coordinate, whether ship is sunk, and methods for view  i.e. ship type,
  * orientation, and coordinates.
  * logic.
- * Daniel Alp
+ * Owen Wang
  * ICS4U1
  * 2022-06-10
  */

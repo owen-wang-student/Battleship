@@ -1,7 +1,7 @@
 /*
  * Orientation.java
  * Enum used for the orientation a ship.
- * Daniel Alp
+ * Owen Wang
  * ICS4U1
  * 2022-06-08
  */

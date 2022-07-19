@@ -2,6 +2,7 @@
  * Coordinate.java
  * Coordinate on a board, represented by the row and column. Used to pack two
  * pieces of data into one. Used by classes in model and ai package.
+ * Owen Wang
  * ICS4U1
  * 2022-06-10
  */

@@ -1,7 +1,7 @@
 /*
  * Main.java
  * Entry point for the program, creates the controller
- * Daniel Alp
+ * Owen Wang
  * ICS4U1
  * 2022-06-08
  */

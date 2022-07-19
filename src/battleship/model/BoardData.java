@@ -2,7 +2,7 @@
  * BoardData.java
  * BoardData class contains methods for game logic i.e. validating ship placement,
  * randomly placing ships, getting fired at, etc. and exposes getter methods
- * Daniel Alp
+ * Owen Wang
  * ICS4U1
  * 2022-06-08
  */

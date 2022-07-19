@@ -1,7 +1,6 @@
 /*
  * Main.java
- *
- * Daniel Alp
+ * Owen Wang
  * ICS4U1
  * 2022-06-08
  */
