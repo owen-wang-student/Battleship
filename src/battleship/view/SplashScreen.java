@@ -11,7 +11,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class SplashScreen extends JPanel {
-    private ImageIcon splashScreenImg = new ImageIcon("src\\res\\splashscreen.png");
+    private ImageIcon splashScreenImg = new ImageIcon("src\\res\\splash_screen.png");
     private JProgressBar loadingBar = new JProgressBar();
 
     /**
